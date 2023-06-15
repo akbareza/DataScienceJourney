@@ -24,15 +24,15 @@ The data source of this project consists of two CSV files:
 Business Development TransJakarta Team
 
 ## Domain Knowledge:
-    - **Raw data**
-        - **tahun**: year of the data is collected.
-        - **bulan**: month of the data is collected.
-        - **jenis**: type of vehicle.
-        - **kode_trayek**: route code.
-        - **trayek**: route.
-        - **jumlah_penumpang**: the number of passengers.
-     - **After data manipulation**
-        - **Date**: year and month of the data is collected.
+- **Raw data**
+    - **tahun**: year of the data is collected.
+    - **bulan**: month of the data is collected.
+    - **jenis**: type of vehicle.
+    - **kode_trayek**: route code.
+    - **trayek**: route.
+    - **jumlah_penumpang**: the number of passengers.
+    - **After data manipulation**
+    - **Date**: year and month of the data is collected.
 
 ## Data Visualization
 To further explore the insights gained from the data analysis, you can access the data visualization using Tableau. The interactive visualization showcases the findings and allows for a more comprehensive understanding of the TransJakarta data.
