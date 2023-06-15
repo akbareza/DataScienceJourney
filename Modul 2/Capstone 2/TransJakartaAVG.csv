@@ -1,0 +1,132 @@
+jenis,kode_trayek,AVG_jumlah_penumpang,crowd_class
+angkutan umum integrasi,10K,32798.0,high
+angkutan umum integrasi,11D,51102.0,high
+angkutan umum integrasi,11Q,9781.0,med
+angkutan umum integrasi,12A,1463.0,low
+angkutan umum integrasi,12B,9408.0,low
+angkutan umum integrasi,1A,62721.0,high
+angkutan umum integrasi,1B,22586.0,med
+angkutan umum integrasi,1C,14984.0,med
+angkutan umum integrasi,1E,65276.0,high
+angkutan umum integrasi,1F,6640.0,low
+angkutan umum integrasi,1H,37638.0,high
+angkutan umum integrasi,1M,22326.0,med
+angkutan umum integrasi,1N,9235.0,low
+angkutan umum integrasi,1P,7611.0,low
+angkutan umum integrasi,1Q,26660.0,high
+angkutan umum integrasi,1R,12332.0,med
+angkutan umum integrasi,2P,4653.0,low
+angkutan umum integrasi,2Q,8440.0,low
+angkutan umum integrasi,3E,23236.0,med
+angkutan umum integrasi,4B,31546.0,high
+angkutan umum integrasi,4F,34614.0,high
+angkutan umum integrasi,5B,6849.0,low
+angkutan umum integrasi,5F,16819.0,med
+angkutan umum integrasi,5M,75577.0,high
+angkutan umum integrasi,6C,79500.0,high
+angkutan umum integrasi,6F,377.0,low
+angkutan umum integrasi,6H,17682.0,med
+angkutan umum integrasi,6M,21277.0,med
+angkutan umum integrasi,6N,23488.0,med
+angkutan umum integrasi,6Q,608.0,low
+angkutan umum integrasi,6R,1955.0,low
+angkutan umum integrasi,7A,55940.0,high
+angkutan umum integrasi,7B,76133.0,high
+angkutan umum integrasi,7D,20689.0,med
+angkutan umum integrasi,7P,24185.0,high
+angkutan umum integrasi,8C,17630.0,med
+angkutan umum integrasi,8D,27154.0,high
+angkutan umum integrasi,8E,18112.0,med
+angkutan umum integrasi,8K,8122.0,low
+angkutan umum integrasi,9D,72275.0,high
+angkutan umum integrasi,9E,13245.0,med
+angkutan umum integrasi,9H,12770.0,med
+angkutan umum integrasi,GR2,3945.0,low
+angkutan umum integrasi,GR3,1386.0,low
+angkutan umum integrasi,GR4,15.5,low
+angkutan umum integrasi,GR5,18.0,low
+brt,1,899829.0,high
+brt,10,369184.0,med
+brt,11,135543.0,low
+brt,12,138371.0,low
+brt,13,305567.0,low
+brt,2,331229.0,low
+brt,3,466445.0,high
+brt,4,269533.0,low
+brt,5,430590.0,med
+brt,6,348321.0,med
+brt,7,377657.0,med
+brt,8,442361.0,high
+brt,9,663201.0,high
+mikrotrans,JAK.01,62146.0,med
+mikrotrans,JAK.02,48317.0,med
+mikrotrans,JAK.03,34997.0,low
+mikrotrans,JAK.04,51092.0,med
+mikrotrans,JAK.05,68172.0,high
+mikrotrans,JAK.06,73113.0,high
+mikrotrans,JAK.07,46342.0,low
+mikrotrans,JAK.08,29530.0,low
+mikrotrans,JAK.09,21417.0,low
+mikrotrans,JAK.10,49104.0,med
+mikrotrans,JAK.10A,19060.0,low
+mikrotrans,JAK.10B,3136.0,low
+mikrotrans,JAK.11,72135.0,high
+mikrotrans,JAK.112,51550.0,med
+mikrotrans,JAK.117,83110.0,high
+mikrotrans,JAK.12,65327.0,high
+mikrotrans,JAK.13,16554.0,low
+mikrotrans,JAK.14,83600.0,high
+mikrotrans,JAK.15,120526.0,high
+mikrotrans,JAK.16,71832.0,high
+mikrotrans,JAK.17,39786.0,low
+mikrotrans,JAK.18,35311.0,low
+mikrotrans,JAK.19,103680.0,high
+mikrotrans,JAK.20,59451.0,med
+mikrotrans,JAK.21,61989.0,med
+mikrotrans,JAK.22,23633.0,low
+mikrotrans,JAK.24,73953.0,high
+mikrotrans,JAK.25,56614.0,med
+mikrotrans,JAK.26,42770.0,low
+mikrotrans,JAK.27,47678.0,med
+mikrotrans,JAK.28,63490.0,med
+mikrotrans,JAK.29,108161.0,high
+mikrotrans,JAK.30,133054.0,high
+mikrotrans,JAK.31,60715.0,med
+mikrotrans,JAK.32,83768.0,high
+mikrotrans,JAK.33,51615.0,med
+mikrotrans,JAK.34,69978.0,high
+mikrotrans,JAK.35,33239.0,low
+mikrotrans,JAK.36,83344.0,high
+mikrotrans,JAK.37,56898.0,med
+mikrotrans,JAK.38,46304.0,low
+mikrotrans,JAK.39,63562.0,med
+mikrotrans,JAK.40,41797.0,low
+mikrotrans,JAK.41,39265.0,low
+mikrotrans,JAK.42,64890.0,med
+mikrotrans,JAK.43,89649.0,high
+mikrotrans,JAK.44,64791.0,med
+mikrotrans,JAK.45,48167.0,med
+mikrotrans,JAK.46,77915.0,high
+mikrotrans,JAK.47,50597.0,med
+mikrotrans,JAK.49,42656.0,low
+mikrotrans,JAK.50,67209.0,high
+mikrotrans,JAK.51,97315.0,high
+mikrotrans,JAK.52,57570.0,med
+mikrotrans,JAK.53,35322.0,low
+mikrotrans,JAK.54,35059.0,low
+mikrotrans,JAK.56,50223.0,med
+mikrotrans,JAK.58,96030.0,high
+mikrotrans,JAK.59,87721.0,high
+mikrotrans,JAK.60,70382.0,high
+mikrotrans,JAK.61,36899.0,low
+mikrotrans,JAK.64,44437.0,low
+mikrotrans,JAK.71,62822.0,med
+mikrotrans,JAK.72,91806.0,high
+mikrotrans,JAK.73,73486.0,high
+mikrotrans,JAK.74,42207.0,low
+mikrotrans,JAK.75,48220.0,med
+mikrotrans,JAK.77,62948.0,med
+mikrotrans,JAK.80,61883.0,med
+mikrotrans,JAK.84,40086.0,low
+mikrotrans,JAK.85,26835.0,low
+mikrotrans,JAK.88,29550.0,low
