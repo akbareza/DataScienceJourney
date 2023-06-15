@@ -13,12 +13,12 @@ TransJakarta aims to classify their vehicles for pricing determination in advert
 ## Files
 The analysis consists of two Jupyter Notebook files:
 
-1. TransJakartaPassengers2021Cleaning.ipynb: This notebook outlines the process of cleaning the TransJakarta data to ensure its accuracy and reliability for further analysis.
-2. TransJakartaPassengers2021Analysis.ipynb: This notebook focuses on the analysis of the TransJakarta data, investigating the relationship between variables and providing insights for pricing and advertising decisions.
+1. `TransJakartaPassengers2021Cleaning.ipynb`: This notebook outlines the process of cleaning the TransJakarta data to ensure its accuracy and reliability for further analysis.
+2. `TransJakartaPassengers2021Analysis.ipynb`: This notebook focuses on the analysis of the TransJakarta data, investigating the relationship between variables and providing insights for pricing and advertising decisions.
 
 The data source of this project consists of two CSV files:
-1. TransJakarta Passengers 2021.csv: This file consist of Raw Data.
-2. TransJakartaPassengers2021Cleansed.csv: This file consist of Clean Data for further analysis.
+1. `TransJakarta Passengers 2021.csv`: This file consist of Raw Data.
+2. `TransJakartaPassengers2021Cleansed.csv`: This file consist of Clean Data for further analysis.
 
 ## Stakeholder
 Business Development TransJakarta Team
