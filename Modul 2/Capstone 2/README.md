@@ -1,4 +1,4 @@
-# TransJakarta Data Analysis (Simulated Project)
+# Vehicle Classification for TransJakarta Advertising (Simulated Project)
 
 ## Background
 TransJakarta is a transportation company. In the upcoming period, the company has a desire to expand its business into the advertising field. Broadly speaking, this advertising business is intended for brands that want to advertise their products on TransJakarta-operated vehicles. It is known that TransJakarta has various types of vehicles and, especially, varying passenger density levels. Therefore, pricing determination is expected to be divided into classes based on specific criteria. **Hence, TransJakarta requires insights to classify their vehicles for pricing determination in advertising spaces on the vehicles, based on the data they possess**.
