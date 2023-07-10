@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/masdevid/ID-Stopwords/master/id.stopwords.02.01.2016.txt
+
+# Manually Input Stopwords 
+more_stopword = ['nya','kali','sih','yg','tidaknya','mah','lah','kok','yah','bah','bro','sis','sist','dong','tuh','oh','begitu'
+                ,'pas','donk','dongs','hehe','haha','hihi','dih','duh','wah','ya','yah','eh','deh','dah','wkwk','wow','si','guys','gaes','mba','mbak','mas'
+                ,'bang','kak','mah','yuk','bet','loh','lho','woy','doang','tuh','euy','kakak','yuhu','aku','gw','gue','gua','elu','lu','kamu','yang','kalau'
+                ,'kalo','kita','gitu','aja','saja','abang','ah','ih','hey','hai','pubg','jt','om','nggak','ngga','engga','reuters'
+                ,'lu','mbak','aa','aaa','abg','adi','ahh','yaelah','ajah','alah','an','sm','ama','la','ai','abis','aduhai','ak','amd'
+                ,'and','ap','spiral','khusna','woi','aduh','aw','awokwok','woi','ayo','bal','adakan','adain'
+                ,'liputan6com','indozoneid','detikcom','detiktravel','detikinet','detikhot','detikers','inipasticom','jpnncom','indozoneid','uzoneid'
+                ,'jawaposcom','bisniscom','kompascom','viva','tempoco','inewsid','republikacoid','merdekacom']
