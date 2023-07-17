@@ -1,4 +1,4 @@
-# Saudi Arabia Used Cars Price Prediction (PERSONAL PROJECT
+# Saudi Arabia Used Cars Price Prediction (PERSONAL PROJECT)
 Project Disclaimer:
 
 Please note that the project described in this repository is not a real project, but rather a conceptual exercise. It was created to explore ideas and encourage creativity.
