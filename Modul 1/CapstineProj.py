@@ -172,8 +172,9 @@ def addBook(curSCBook, curSOBook, curOTBook):
         except:
             print('Please enter with numerical format!')
             continue
-    bookCategory = inputNumber('Please choose book category!\n[1] Science\n[2] Social\n[3] Others\nInput','outInt')
+    #bookCategory = inputNumber('Please choose book category!\n[1] Science\n[2] Social\n[3] Others\nInput','outInt')
     while True:
+        bookCategory = inputNumber('Please choose book category!\n[1] Science\n[2] Social\n[3] Others\nInput','outInt')
         if bookCategory == 1:
             bookCategory = 'Science'
             formattedNumber = '{:04d}'.format(curSCBook)
@@ -200,6 +201,7 @@ def addBook(curSCBook, curSOBook, curOTBook):
             break
         else:
             print('Category is not found!')
+            continue
 
     while True:
         clear_screen()
